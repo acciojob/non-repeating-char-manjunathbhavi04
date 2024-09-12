@@ -1,4 +1,4 @@
-function firstNonRepeatedChar(str) {
+function firstNonRepeatedChar(string) {
  // Write your code here
 	for (var i = 0; i < string.length; i++) {
     var c = string.charAt(i);
